@@ -11,13 +11,10 @@ PhD Candidate in Economics at University of Cambridge.
 
 Research Interest
 ======
-Microeconometrics, Machine Learning and Casual Inference.
+<p>Microeconometrics.  <br>Machine Learning and Casual Inference. </p>
 
 Teaching
 ======
-<p>This is the first line.  <br>And this is the second line.</p>
-	R300 Econometrics.
-	D200 Machine Learning in Economics. 
-	D300 Causal Inference and Machine Learning. 
-	Part IIB Paper 10 Theory and Practice of Econometrics II.
-
+<p>R300 Econometrics.  <br>D200 Machine Learning in Economics. 
+<br>D300 Causal Inference and Machine Learning. 
+<br>Part IIB Paper 10 Theory and Practice of Econometrics II.</p>
