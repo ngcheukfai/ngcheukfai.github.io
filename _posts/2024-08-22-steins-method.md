@@ -14,7 +14,7 @@ $$
 f'(w)-wf(w)=h(w)-Eh(Z).
 \end{aligned}
 $$
-Typically, the function $h$ would be the indicator function $$h(w)=I(w\leq z)$$ and $$Z$$ is normal. So it becomes
+Typically, the function $$h$$ would be the indicator function $$h(w)=I(w\leq z)$$ and $$Z$$ is normal. So it becomes
 $$
 \begin{aligned}
 f'(w)-wf(w)=I(w\leq z)-\Phi(z).
