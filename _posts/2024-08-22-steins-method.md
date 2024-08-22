@@ -1,5 +1,5 @@
 ---
-title: 'Stein's Method'
+title: 'Stein&apos s Method'
 date: 2024-08-22
 permalink: /posts/2012/08/blog-post-5/
 tags:
