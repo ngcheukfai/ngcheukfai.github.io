@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-<hr>
+---
 PhD Candidate in Economics at University of Cambridge.
 
 Research Interest
