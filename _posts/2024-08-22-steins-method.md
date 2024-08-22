@@ -20,8 +20,13 @@ $$
 f'(w)-wf(w)=I(w\leq z)-\Phi(z).
 \end{aligned}
 $$
-
-Let $$Z$$ be a standard normally distrbuted random variable and let $$\mathscr{C}$$ be the set of continuous and piecewise continuously differentiable functions $$f:\mathbb{R}\rightarrow \mathbb{R}$$ with $$E\lvert f'(Z)\rvert<\infty$$.
+The above is a differential equation and has a solution $$f_z(\cdot)$$. The functions are measurable so we can plug back in the random variable $$W$$ (a bit informal). We can take expectation and obtain
+$$
+\begin{aligned}
+E\Big(f_z'(W)-wf_z(W)\Big)=P(W\leq z)-\Phi(z).
+\end{aligned}
+$$
+Then our job is to show that $$E\Big(f_z'(W)-wf_z(W)\Big)\rightarrow 0$$ which would imply $$P(W\leq z)-\Phi(z)\rightarrow 0$$.
 
 ##### Reference
 
