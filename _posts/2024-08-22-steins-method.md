@@ -1,10 +1,13 @@
 ---
-title: 'What is Stein's Method.'
-date: 2024-08-22
-permalink: /posts/2024/08/steins-method/
+title: 'Blog Post number 5'
+date: 2015-08-14
+permalink: /posts/2012/08/blog-post-5/
 tags:
-  - Statistics
+  - cool posts
+  - category1
+  - category2
 ---
+
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
 Headings are cool
