@@ -6,5 +6,4 @@ tags:
   - Statistics
 ---
 
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+Let $$Z$$ be a standard normally distrbuted random variable and let $$\mathscr{C}$$ be the set of continuous and piecewise continuously differentiable functions $$f:\mathbb{R}\rightarrow \mathbb{R}$$ with $$E|f'(Z)|<\infty$$.
