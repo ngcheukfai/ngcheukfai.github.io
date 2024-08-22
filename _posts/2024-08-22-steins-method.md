@@ -6,4 +6,4 @@ tags:
   - Statistics
 ---
 
-Let $$Z$$ be a standard normally distrbuted random variable and let $$\mathscr{C}$$ be the set of continuous and piecewise continuously differentiable functions $$f:\mathbb{R}\rightarrow \mathbb{R}$$ with $$E\lvertf'(Z)\rvert<\infty$$.
+Let $$Z$$ be a standard normally distrbuted random variable and let $$\mathscr{C}$$ be the set of continuous and piecewise continuously differentiable functions $$f:\mathbb{R}\rightarrow \mathbb{R}$$ with $$E\lvert f'(Z)\rvert<\infty$$.
