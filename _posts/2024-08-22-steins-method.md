@@ -1,6 +1,6 @@
 ---
-title: 'Blog Post number 5'
-date: 2015-08-14
+title: 'Stein's Method'
+date: 2024-08-22
 permalink: /posts/2012/08/blog-post-5/
 tags:
   - cool posts
