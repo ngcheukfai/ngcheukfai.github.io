@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "VCE_MCOV: Stata module to compute the Leave-Cluster-Out-Crossfit (LCOC) variance estimates for user-chosen coefficients in a linear regression model"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/VCE_MCOV
+excerpt: 'vce_mcov is an eclass command that can be used after running reg. It replaces the entries of the variance matrix (stored in e(V)) relating to user-chosen parameter(s) of inferential interest with the Leave-Cluster-Out-Crossfit (LCOC) estimates (see Anatolyev and Ng, 2024). All postestimation commands will work as usual.'
+date: 2024-02-01
+venue: 'Statistical Software Components S459293'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Stanislav Anatolyev & Cheuk Fai Ng, 2024. &quot;"VCE_MCOV: Stata module to compute the Leave-Cluster-Out-Crossfit (LCOC) variance estimates for user-chosen coefficients in a linear regression model,&quot; <i>J Statistical Software Components S459293</i>. 1(1).'
 ---
 
 vce_mcov is an eclass command that can be used after running reg. It replaces the entries of the variance matrix (stored in e(V)) relating to user-chosen parameter(s) of inferential interest with the Leave-Cluster-Out-Crossfit (LCOC) estimates (see Anatolyev and Ng, 2024). All postestimation commands will work as usual.
