@@ -15,6 +15,7 @@ $$
 then $$E|\sum^n_{i=1}X_i|^r\leq \frac{1}{1-D(r)}\sum^n_{i=1}|X_i|^r.
 $$
 	
+Below is a plot of $$D(r)$$.
 <img src='/images/D_function.png'>
 
 ##### Reference
