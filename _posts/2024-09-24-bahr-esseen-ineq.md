@@ -6,6 +6,15 @@ tags:
   - Statistics
 ---
 
+Bahr and Esseen (1965) Inequality provides a useful moment bound on the absolute sum of independent variable. It states as follows: let $X_1,X_2,\ldots , X_n$ be a sequence of independent r.v.'s with $EX_i=0$ and $E|X_i|<\infty,1\leq i\leq n.$ If $r$ statisfies 
+$$
+\begin{aligned}
+D(r)=\frac{13.52}{(2.6 \pi)^r}\Gamma(r)\sin (r\pi/2)<1 \text{ and } 1\leq r \leq 2,
+\end{aligned}
+$$
+then $E|X|^r\leq [2(1-D(r))]^{-1}E|X-X'|^r.$
+
+
 Stein's method is a way to show that a random variable $$W$$ has a distribution that is close to a target distribution (usually the normal distribution). Its idea is that if two random variables are similar, then the expectations of some functions of the two random variables being compared should be similar.
 
 The central idea rests on the so called Stein&apos;s equation
