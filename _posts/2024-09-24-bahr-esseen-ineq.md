@@ -6,7 +6,7 @@ tags:
   - Statistics
 ---
 
-Bahr and Esseen (1965) Inequality provides a useful moment bound on the absolute sum of independent variable. It states as follows: let $$X_1,X_2,\ldots , X_n$$ be a sequence of independent r.v.'s with $$EX_i=0$$ and $E|X_i|<\infty,1\leq i\leq n.$ If $$r$$ satisfies 
+Bahr and Esseen (1965) Inequality provides a useful moment bound on the absolute sum of independent variable. It states as follows: let $$X_1,X_2,\ldots , X_n$$ be a sequence of independent r.v.'s with $$EX_i=0$$ and $$E|X_i|<\infty,1\leq i\leq n.$$ If $$r$$ satisfies 
 $$
 \begin{aligned}
 D(r)=\frac{13.52}{(2.6 \pi)^r}\Gamma(r)\sin (r\pi/2)<1 \text{ and } 1\leq r \leq 2,
