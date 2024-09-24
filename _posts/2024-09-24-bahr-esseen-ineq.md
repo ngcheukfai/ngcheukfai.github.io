@@ -14,6 +14,8 @@ D(r)=\frac{13.52}{(2.6 \pi)^r}\Gamma(r)\sin (r\pi/2)<1 \text{ and } 1\leq r \leq
 $$
 then $$E|\sum^n_{i=1}X_i|^r\leq \frac{1}{1-D(r)}\sum^n_{i=1}|X_i|^r.
 $$
+	
+<img src='/images/D_function.png'>
 
 ##### Reference
 
