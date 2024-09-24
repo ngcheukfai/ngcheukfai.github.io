@@ -17,4 +17,4 @@ $$
 
 ##### Reference
 
-*Von Bahr, B. E. N. G. T., and Carl-Gustav Esseen. "Inequalities for the rth absolute moment of a sum of random variables, 1? r? 2." The Annals of Mathematical Statistics (1965): 299-303.*
+*Von Bahr, B. E. N. G. T., and Carl-Gustav Esseen. "Inequalities for the rth absolute moment of a sum of random variables, $$1\leq r\leq 2$$." The Annals of Mathematical Statistics (1965): 299-303.*
