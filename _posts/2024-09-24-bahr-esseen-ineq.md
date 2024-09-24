@@ -6,37 +6,15 @@ tags:
   - Statistics
 ---
 
-Bahr and Esseen (1965) Inequality provides a useful moment bound on the absolute sum of independent variable. It states as follows: let $X_1,X_2,\ldots , X_n$ be a sequence of independent r.v.'s with $EX_i=0$ and $E|X_i|<\infty,1\leq i\leq n.$ If $r$ statisfies 
+Bahr and Esseen (1965) Inequality provides a useful moment bound on the absolute sum of independent variable. It states as follows: let $$X_1,X_2,\ldots , X_n$$ be a sequence of independent r.v.'s with $$EX_i=0$$ and $E|X_i|<\infty,1\leq i\leq n.$ If $$r$$ satisfies 
 $$
 \begin{aligned}
 D(r)=\frac{13.52}{(2.6 \pi)^r}\Gamma(r)\sin (r\pi/2)<1 \text{ and } 1\leq r \leq 2,
 \end{aligned}
 $$
-then $E|X|^r\leq [2(1-D(r))]^{-1}E|X-X'|^r.$
-
-
-Stein's method is a way to show that a random variable $$W$$ has a distribution that is close to a target distribution (usually the normal distribution). Its idea is that if two random variables are similar, then the expectations of some functions of the two random variables being compared should be similar.
-
-The central idea rests on the so called Stein&apos;s equation
+then $$E|\sum^n_{i=1}X_i|^r\leq \frac{1}{1-D(r)}\sum^n_{i=1}|X_i|^r.
 $$
-\begin{aligned}
-f'(w)-wf(w)=h(w)-Eh(Z).
-\end{aligned}
-$$
-Typically, the function $$h$$ would be the indicator function $$h(w)=I(w\leq z)$$ and $$Z$$ is normal. So it becomes
-$$
-\begin{aligned}
-f'(w)-wf(w)=I(w\leq z)-\Phi(z).
-\end{aligned}
-$$
-The above is a differential equation and has a solution $$f_z(\cdot)$$. The functions are measurable so we can plug back in the random variable $$W$$ (a bit informal). We can take expectation and obtain
-$$
-\begin{aligned}
-E\Big(f_z'(W)-wf_z(W)\Big)=P(W\leq z)-\Phi(z).
-\end{aligned}
-$$
-Then our job is to show that $$E\Big(f_z'(W)-wf_z(W)\Big)\rightarrow 0$$ which would imply $$P(W\leq z)-\Phi(z)\rightarrow 0$$.
 
 ##### Reference
 
-*Normal Approximation by Stein’s Method (Probability and Its Applications), Louis H.Y. Chen, Larry Goldstein, Qi-Man Shao.*
+*Von Bahr, B. E. N. G. T., and Carl-Gustav Esseen. "Inequalities for the rth absolute moment of a sum of random variables, 1? r? 2." The Annals of Mathematical Statistics (1965): 299-303.*
