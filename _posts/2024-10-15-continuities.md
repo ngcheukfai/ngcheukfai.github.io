@@ -12,7 +12,9 @@ There are various types of continuties and their relative restrictivenesses vary
 Below summarizes this relationship.
 
 $$
+\begin{aligned}
 \text{lipschitz cont.}\subseteq\text{absolute cont.}\subseteq \text{uniformly cont.} \subseteq \text{continuous}
+\end{aligned}
 $$
 
 ##### Reference
