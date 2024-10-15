@@ -7,7 +7,6 @@ tags:
 ---
 
 Here are some graphs of common activation functions.
-
 <img src='/images/act_fns/activation-abs.png'>
 
 <img src='/images/act_fns/activation-clamped.png'>
