@@ -1,5 +1,5 @@
 ---
-title: 'Continuities'
+title: 'Absolute Continuities'
 date: 2024-09-24
 permalink: /posts/2024/08/Absolute continuities/
 tags:
