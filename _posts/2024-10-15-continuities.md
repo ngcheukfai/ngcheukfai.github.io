@@ -1,5 +1,5 @@
 ---
-title: 'Activation Functions'
+title: 'Continuties'
 date: 2024-09-24
 permalink: /posts/2024/08/continuties/
 tags:
